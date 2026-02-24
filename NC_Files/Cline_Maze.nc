@@ -2,7 +2,7 @@
 O00002 
 (CLINE MAZE) 
 (Startup Process)
-T1 M06 	 		(Select tool)
+T1 M06 	 		 (Select tool)
 G54 			(Use Work Offset G54)		
 G90 G17 		(Safe Startup Line: Absolute Programming and Set the active plane as XY)
 G00 X0. Y0.  	(Rapid Movement to 0 X,Yand Z axes in work offset)
