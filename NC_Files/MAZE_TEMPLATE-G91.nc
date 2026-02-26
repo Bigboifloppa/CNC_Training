@@ -28,7 +28,17 @@ X0.25 Y0
 X0. Y0.5
 X0.5 Y0.
 X0. Y-0.5
-X0.5
+X0.5 Y0.
+X0. Y0.5
+X0.5 Y0.
+X0. Y-0.5
+X0.5 Y0.
+X0. Y0.5
+X0.5 Y0.
+X0. Y-0.5
+X1.0 Y0.
+X0. Y1.0
+X0.25 Y0.
 
 (END SEQUENCE)
 G00 G53 Z1.0	(Raise the pen) 
