@@ -1,6 +1,6 @@
 %
 O00001 
-(NAME OF DESIGN) 
+(Aaron Letter U) 
 (Startup Process)
 M06 T1	 		(Select tool)
 M03 S5000 		(Start Spindle, Clockwise, at 5,000 RPM)
